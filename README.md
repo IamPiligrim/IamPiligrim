@@ -12,7 +12,7 @@
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Neiromess&color=007AFF&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Neironess?style=flat-square&color=007AFF&labelColor=E8F4FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/IamPiligrim?style=flat-square&color=007AFF&labelColor=E8F4FF" alt="Followers"/>
 </p>
 
 </p>
