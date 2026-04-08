@@ -39,7 +39,7 @@ const martin = new FullStackDeveloper({
 <h3 align="left" style="color: #1d1d1f; font-weight: 600;">🚀 Focus on</h3>
 
 <p align="left" style="line-height: 2;">
-<code>•</code> Full-stack website && webapp development<br>
+<code>•</code> Full-stack website development<br>
 <code>•</code> Сlean UI<br>
 <code>•</code> Scalable backend solutions<br>
 <code>•</code> Modern tooling<br>
@@ -50,7 +50,7 @@ const martin = new FullStackDeveloper({
 <p align="left" style="color: #86868b; margin-top: 20px;">
 <strong>Location:</strong> Kaliningrad/Remote<br>
 <strong>Timezone:</strong> GMT+2<br>
-<strong>Status:</strong> <span style="color: #34c759;">● Available</span>
+<strong>Status:</strong> <span style="color: #34c759;">✅ Available for hire</span>
 </p>
 
 </td>
