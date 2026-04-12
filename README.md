@@ -90,27 +90,6 @@ const martin = new FullStackDeveloper({
   </tr>
 
   <tr>
-    <th colspan="7" align="center">IDEs & Software</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=webstorm" width="42" alt="WebStorm"/><br><sub>WebStorm</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="42" alt="PyCharm"/><br><sub>PyCharm</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=idea" width="42" alt="IntelliJ IDEA"/><br><sub>IntelliJ IDEA</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"/><br><sub>VS Code</sub>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
     <th colspan="7" align="center">Environments & Frameworks</th>
   </tr>
   <tr>
