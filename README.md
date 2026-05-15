@@ -130,6 +130,9 @@ const martin = new FullStackDeveloper({
     <td align="center">
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/><br><sub>n8n</sub>
     </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/><br><sub>Docker</sub>
+    </td>
     <td></td>
     <td></td>
     <td></td>
