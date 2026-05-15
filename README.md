@@ -135,7 +135,6 @@ const martin = new FullStackDeveloper({
     </td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
