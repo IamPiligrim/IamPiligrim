@@ -3,38 +3,55 @@
 </p>
 
 <p align="center">
-  <b>FullStack Developer</b> &nbsp;·&nbsp; 2+ years &nbsp;·&nbsp; Kaliningrad / Remote &nbsp;·&nbsp; GMT+2 &nbsp;·&nbsp; <span>✅ Available for hire</span>
+  <b>FullStack Developer</b><br>
+  2+ years of experience in the IT industry.<br>
+  Passionate about building modern, scalable, and high-quality products.
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<h3>💫 About</h3>
+<h3 align="left" style="color: #1d1d1f; font-weight: 600;">💫 About</h3>
 
-<p>
-I'm <b>Martin Piligrim</b>, a <b>FullStack Developer</b> with 2+ years of experience.<br>
-I build clean, scalable, and user-focused applications with attention to quality and modern practices.
+<p align="left" style="color: #86868b; line-height: 1.6;">
+I'm <b>Martin Piligrim</b>, a <b>FullStack Developer</b> with over <b>2 years of experience</b> in the IT field.<br>
+  I enjoy creating clean, efficient, and user-focused applications,<br>
+  with attention to product quality, performance, and modern development practices.
 </p>
 
-```js
+```JavaScript
+
+const { FullStackDeveloper } = require("martin-piligrim");
+
 const martin = new FullStackDeveloper({
   experience: "2+ years",
-  focus: ["FullStack", "Scalable Apps", "Quality"],
-  tech: ["TypeScript", "Java", "React", "Node.js"]
+  focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
+  tech: ["TypeScript", "Java", "React", "Node.js", "Git", "npm"]
 });
 ```
 
 </td>
-<td width="55%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left" style="color: #1d1d1f; font-weight: 600;">🚀 Focus on</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IamPiligrim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+<p align="left" style="line-height: 2;">
+<code>•</code> Full-stack website development<br>
+<code>•</code> Сlean UI<br>
+<code>•</code> Scalable backend solutions<br>
+<code>•</code> Modern tooling<br>
+<code>•</code> Product quality<br>
+<code>•</code> Open source contributions
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPiligrim&layout=donut&theme=github_dark&hide_border=true&langs_count=6" width="260" alt="Top Languages"/>
+<p align="left" style="color: #86868b; margin-top: 20px;">
+<strong>Location:</strong> Kaliningrad/Remote<br>
+<strong>Timezone:</strong> GMT+2<br>
+<strong>Status:</strong> <span style="color: #34c759;">✅ Available for hire</span>
+</p>
 
 </td>
 </tr>
@@ -44,28 +61,87 @@ const martin = new FullStackDeveloper({
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,py,html,css,java,nodejs,vite,gradle,bootstrap,nuxtjs,git,nginx,docker" alt="Tech Stack"/>
-</p>
+<table align="center">
+  <tr>
+    <th colspan="7" align="center">Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br><sub>JavaScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br><sub>TypeScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br><sub>React</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python"/><br><sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"/><br><sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br><sub>CSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br><sub>Java</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="7" align="center">Environments & Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br><sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"/><br><sub>Vite</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gradle" width="42" alt="Gradle"/><br><sub>Gradle</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=maven" width="42" alt="Maven"/><br><sub>Maven</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br><sub>Bootstrap</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="42" alt="Nuxt"/><br><sub>Nuxt</sub>
+    </td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <th colspan="7" align="center">Utilities</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" width="42" alt="npm"/><br><sub>npm</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br><sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx"/><br><sub>Nginx</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/><br><sub>n8n</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/><br><sub>Docker</sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">📬 Contact</h2>
-
-<p align="center">
-  <a href="https://t.me/converseanchous"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:sspeakersquad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <a href="https://discord.com/users/629784054719315989"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamPiligrim&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-  &nbsp;
   <img src="https://img.shields.io/github/followers/IamPiligrim?style=for-the-badge&color=58A6FF&labelColor=1f2937&logo=github&label=Followers" alt="Followers"/>
 </p>
