@@ -85,7 +85,7 @@ const martin = new FullStackDeveloper({
       <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br><sub>CSS</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br><sub>Java</sub>
+      <img src="https://skillicons.dev/icons?i=rust" width="42" alt="Rust"/><br><sub>Rust</sub>
     </td>
   </tr>
 
@@ -100,10 +100,10 @@ const martin = new FullStackDeveloper({
       <img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"/><br><sub>Vite</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=gradle" width="42" alt="Gradle"/><br><sub>Gradle</sub>
+      <img src="https://skillicons.dev/icons?i=vuejs" width="42" alt="Vue.js"/><br><sub>Vue.js</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=maven" width="42" alt="Maven"/><br><sub>Maven</sub>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br><sub>Next.js</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br><sub>Bootstrap</sub>
