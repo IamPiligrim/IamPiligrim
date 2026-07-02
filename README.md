@@ -29,7 +29,7 @@ const { FullStackDeveloper } = require("martin-piligrim");
 const martin = new FullStackDeveloper({
   experience: "2+ years",
   focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
-  tech: ["TypeScript", "Java", "React", "Node.js", "Git", "npm"]
+  tech: ["TypeScript", "Python", "React", "Node.js", "Git", "npm"]
 });
 ```
 
