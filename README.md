@@ -59,7 +59,7 @@ const martin = new FullStackDeveloper({
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack & GitHUb Stats</h2>
 
 <table>
 <tr>
@@ -145,15 +145,8 @@ const martin = new FullStackDeveloper({
 </td>
 <td valign="top">
 
-<a href="https://github.com/Eiztrips">
-  <!-- Статистика по языкам -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IamPiligrim&layout=compact&bg_color=00000000&hide_border=true&title_color=5810cc&text_color=ffffff" alt="Top Languages" width="100%" />
-</a>
-<br>
-<a href="https://github.com/Eiztrips">
-  <!-- Основная статистика -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IamPiligrim&show_icons=true&bg_color=00000000&hide_border=true&title_color=5810cc&text_color=ffffff&icon_color=5810cc" alt="GitHub Stats" width="100%" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamPiligrim&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamPiligrim&theme=github_dark" alt="IamPiligrim's GitHub stats" />
 
 </td>
 </tr>
