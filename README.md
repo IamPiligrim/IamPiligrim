@@ -27,9 +27,9 @@ I'm <b>Martin Piligrim</b>, a <b>FullStack Developer</b> with over <b>2 years of
 const { FullStackDeveloper } = require("martin-piligrim");
 
 const martin = new FullStackDeveloper({
-  experience: "2+ years",
-  focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
-  tech: ["TypeScript", "Python", "React", "Node.js", "Git", "npm"]
+    experience: "2+ years",
+    focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
+    tech: ["TypeScript", "Python", "React", "Node.js", "Git", "npm"]
 });
 ```
 
@@ -61,7 +61,11 @@ const martin = new FullStackDeveloper({
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<table align="center">
+<table>
+<tr>
+<td valign="top">
+
+<table>
   <tr>
     <th colspan="7" align="center">Languages</th>
   </tr>
@@ -136,6 +140,23 @@ const martin = new FullStackDeveloper({
     <td></td>
     <td></td>
   </tr>
+</table>
+
+</td>
+<td valign="top">
+
+<a href="https://github.com/Eiztrips">
+  <!-- Статистика по языкам -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IamPiligrim&layout=compact&bg_color=00000000&hide_border=true&title_color=5810cc&text_color=ffffff" alt="Top Languages" width="100%" />
+</a>
+<br>
+<a href="https://github.com/Eiztrips">
+  <!-- Основная статистика -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IamPiligrim&show_icons=true&bg_color=00000000&hide_border=true&title_color=5810cc&text_color=ffffff&icon_color=5810cc" alt="GitHub Stats" width="100%" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
