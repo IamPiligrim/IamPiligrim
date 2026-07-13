@@ -77,7 +77,7 @@ const martin = new FullStackDeveloper({
       <img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br><sub>TypeScript</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br><sub>React</sub>
+      <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br><sub>Java</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python"/><br><sub>Python</sub>
@@ -115,7 +115,9 @@ const martin = new FullStackDeveloper({
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="42" alt="Nuxt"/><br><sub>Nuxt</sub>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br><sub>React</sub>
+    </td>
   </tr>
 
   <tr>
@@ -135,9 +137,11 @@ const martin = new FullStackDeveloper({
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/><br><sub>n8n</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/><br><sub>Docker</sub>
+      <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br><sub>Docker</sub>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/><br><sub>Linux</sub>
+    </td>
     <td></td>
   </tr>
 </table>
