@@ -59,7 +59,7 @@ const martin = new FullStackDeveloper({
 
 ---
 
-<h2 align="center">🛠 Tech Stack & GitHUb Stats</h2>
+<h2 align="center">🛠 Tech Stack & GitHub Stats</h2>
 
 <table>
 <tr>
