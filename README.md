@@ -142,7 +142,9 @@ const martin = new FullStackDeveloper({
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/><br><sub>Linux</sub>
     </td>
-    <td></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma"/><br><sub>Figma</sub>
+    </td>
   </tr>
 </table>
 
