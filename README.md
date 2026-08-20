@@ -29,7 +29,7 @@ const { FullStackDeveloper } = require("martin-piligrim");
 const martin = new FullStackDeveloper({
     experience: "2+ years",
     focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
-    tech: ["TypeScript", "Python", "React", "Node.js", "Git", "npm"]
+    tech: ["TypeScript", "Python", "React", "Node.js", "Git", "Linux"]
 });
 ```
 
@@ -60,14 +60,16 @@ const martin = new FullStackDeveloper({
 ---
 
 <h2 align="center">🛠 Tech Stack & GitHub Stats</h2>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,py,html,css,java,nodejs,vite,gradle,bootstrap,nuxtjs,git,nginx,docker" alt="Tech Stack"/>
+</p>
 <table>
 <tr>
 <td valign="top">
 
 <table>
   <tr>
-    <th colspan="7" align="center">Languages</th>
+    <th colspan="6" align="center">Languages</th>
   </tr>
   <tr>
     <td align="center">
@@ -87,9 +89,6 @@ const martin = new FullStackDeveloper({
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br><sub>CSS</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" width="42" alt="Rust"/><br><sub>Rust</sub>
     </td>
   </tr>
 
