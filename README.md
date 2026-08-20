@@ -29,7 +29,7 @@ const { FullStackDeveloper } = require("martin-piligrim");
 const martin = new FullStackDeveloper({
     experience: "2+ years",
     focus: ["FullStack Development", "Scalable Apps", "Product Quality"],
-    tech: ["TypeScript", "Python", "React", "Node.js", "Git", "npm"]
+    tech: ["TypeScript", "Python", "React", "Node.js", "Git", "Linux"]
 });
 ```
 
@@ -60,106 +60,18 @@ const martin = new FullStackDeveloper({
 ---
 
 <h2 align="center">🛠 Tech Stack & GitHub Stats</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,java,nodejs,react,vue,nuxtjs,git,nginx,docker,linux,figma" alt="Tech Stack"/>
+</p>
 
-<table>
-<tr>
-<td valign="top">
-
-<table>
-  <tr>
-    <th colspan="7" align="center">Languages</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br><sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br><sub>TypeScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br><sub>Java</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python"/><br><sub>Python</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"/><br><sub>HTML</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br><sub>CSS</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" width="42" alt="Rust"/><br><sub>Rust</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="7" align="center">Environments & Frameworks</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br><sub>Node.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"/><br><sub>Vite</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vuejs" width="42" alt="Vue.js"/><br><sub>Vue.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br><sub>Next.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br><sub>Bootstrap</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="42" alt="Nuxt"/><br><sub>Nuxt</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br><sub>React</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="7" align="center">Utilities</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=npm" width="42" alt="npm"/><br><sub>npm</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br><sub>Git</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx"/><br><sub>Nginx</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n"/><br><sub>n8n</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br><sub>Docker</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/><br><sub>Linux</sub>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma"/><br><sub>Figma</sub>
-    </td>
-  </tr>
-</table>
-
-</td>
-<td valign="top">
+<p align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamPiligrim&theme=github_dark" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamPiligrim&theme=github_dark" alt="IamPiligrim's GitHub stats" />
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamPiligrim&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
